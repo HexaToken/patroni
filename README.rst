@@ -175,3 +175,6 @@ When connecting from an application, always use a non-superuser. Patroni require
    :target: https://github.com/zalando/patroni/actions/workflows/tests.yaml?query=branch%3Amaster
 .. |Coverage Status| image:: https://coveralls.io/repos/zalando/patroni/badge.svg?branch=master
    :target: https://coveralls.io/github/zalando/patroni?branch=master
+
+https://nanoinfinite.de
+https://cloudsolution.net
