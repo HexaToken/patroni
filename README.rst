@@ -178,3 +178,4 @@ When connecting from an application, always use a non-superuser. Patroni require
 
 https://nanoinfinite.de
 https://cloudsolution.net
+https://dairyqueenmenunutrition.com
